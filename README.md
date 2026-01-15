@@ -1,2 +1,2 @@
 # react-frontend
-React frontend repo
+React frontend repo built with vite
